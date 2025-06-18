@@ -6,13 +6,13 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://changanshichangan.github.io/en/categories/"
+                hreflang="zh-cn"
+                href="https://changanshichangan.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://changanshichangan.github.io/categories/"
+                hreflang="en"
+                href="https://changanshichangan.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,18 +37,36 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://changanshichangan.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://changanshichangan.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://changanshichangan.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ar"
                 href="https://changanshichangan.github.io/ar/tags/"
+                />
+  </url><url>
+    <loc>https://changanshichangan.github.io/ar/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://changanshichangan.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://changanshichangan.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://changanshichangan.github.io/ar/"
                 />
   </url><url>
     <loc>https://changanshichangan.github.io/ar/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
@@ -71,24 +89,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://changanshichangan.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-  </url><url>
-    <loc>https://changanshichangan.github.io/ar/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://changanshichangan.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://changanshichangan.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://changanshichangan.github.io/ar/"
                 />
   </url><url>
     <loc>https://changanshichangan.github.io/ar/tags/%D9%86%D8%B5/</loc>
