@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>鹤别青山</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://changanshichangan.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://changanshichangan.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>搜索</title>
+        <link>https://changanshichangan.github.io/archives/</link>
+        <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://changanshichangan.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://changanshichangan.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -94,14 +102,6 @@
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://changanshichangan.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://changanshichangan.github.io/archives/</guid>
-        <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
@@ -436,14 +436,6 @@ $$</description>
 &lt;/div&gt;</description>
         </item>
         <item>
-        <title>Links</title>
-        <link>https://changanshichangan.github.io/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://changanshichangan.github.io/links/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Search</title>
         <link>https://changanshichangan.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -457,8 +449,26 @@ $$</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://changanshichangan.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;装修ing&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>文学天地</title>
+        <link>https://changanshichangan.github.io/categories/test/literature/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://changanshichangan.github.io/categories/test/literature/</guid>
+        <description>&lt;img src="https://changanshichangan.github.io/images/categories/literature-bg.jpg" alt="Featured image of post 文学天地" /&gt;&lt;h2 id=&#34;卷首语&#34;&gt;卷首语
+&lt;/h2&gt;&lt;p&gt;文字是心灵的镜像，文学则是千万个灵魂在时光中留下的回声&amp;hellip; （此处添加分类页正文内容）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://changanshichangan.github.io/%E5%8F%8B%E9%93%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://changanshichangan.github.io/%E5%8F%8B%E9%93%BE/</guid>
+        <description></description>
         </item>
         
     </channel>
